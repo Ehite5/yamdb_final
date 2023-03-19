@@ -16,6 +16,9 @@ services:
   web:
     image:
       ehite8/yamdb_final:latest
+    build:
+      context: ../
+      dockerfile: api_yamdb/Dockerfile
     restart: always
     volumes:
       - static_value:/app/static/
