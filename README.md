@@ -1,5 +1,5 @@
 # yamdb_final
-![yamdb_workflow](https://github.com/Ehite5/yamdb_final/workflows/yamdb_workflow.yml/badge.svg)
+![Yamdb Workflow Status](https://github.com/themasterid/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg?branch=master&event=push)
 ## Описание проекта
 - Проект YaMDb собирает отзывы пользователей на произведения.
 - Произведения делятся на категории: Музыка, Фильмы, Книги.
